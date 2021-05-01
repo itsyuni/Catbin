@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://catbin.ml/</loc>
+	<lastmod>2020-08-08T17:14:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://catbin.ml/support</loc>
+	<lastmod>2020-08-08T17:14:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://catbin.ml/login</loc>
+	<lastmod>2020-08-08T17:14:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://catbin.ml/registration.php</loc>
+	<lastmod>2020-08-08T17:14:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>

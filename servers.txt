@@ -1,0 +1,19 @@
+cbin-nam5 - USA Central-5
+cbin-eur3 - West Europe-3
+cbin-asia-nheast3 - Asia Northeast-3
+cbin-asia-nheast2 - Asia Northeast-2
+cbin-eur-west6 - Europe West-6
+cbin-asia-east2 - Asia East-2
+cbin-us-west2 - USA West-2
+cbin-eur-west3 - Europe West-3
+cbin-eur-west2 - Europe West-2
+cbin-us-east1 - USA East-1
+cbin-us-east4 - USA East-4
+cbin-asia-nheast1 - Asia Northeast-1
+cbin-south1 - Asia Northeast-3
+cbin-australia-sheast1 - Australia Southeast-1
+cbin-samerica-east1 - South America East-1
+cbin-namerica-nheast1 - Horth America Northeast-1
+cbin-us-west3 - US West-3
+cbin-us-west4 - US West-4
+cbin-asia-sheast2 - Asia Southeast-2

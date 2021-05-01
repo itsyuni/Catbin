@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+:root{
+    --first-color: #222226;
+    --input-color: #80868B;
+    --border-color: #DADCE0;
+    --normal-font-size: 1rem;
+    --small-font-size: .75rem;
+  }
+
+body{
+   background-color: #222226; 
+}
+.content{
+    background: #222226;
+    width: 50%;
+    padding: 40px;
+    margin: 20px auto;
+    font-family: Google-Fonts;
+    border: 5px solid aliceblue;
+    border-radius: 10px;
+}
+
+body { background-color: #222226; font-family: Google Sans; }
+            @font-face {
+                font-family: 'Google Sans';
+                src: url('/assets/fonts/GoogleSans-Medium.eot');
+                src: local('Google Sans Medium'), local('GoogleSans-Medium'),
+                    url('/assets/fonts/GoogleSans-Medium.eot?#iefix') format('embedded-opentype'),
+                    url('/assets/fonts/GoogleSans-Medium.woff2') format('woff2'),
+                    url('/assets/fonts/GoogleSans-Medium.woff') format('woff'),
+                    url('/assets/fonts/GoogleSans-Medium.ttf') format('truetype');
+                font-weight: 500;
+                font-style: normal;
+                            }
+h1, h2, h3, h4, h5, h6, a, span, label, p {
+    font-family: Google Sans;
+    color: aliceblue;
+}

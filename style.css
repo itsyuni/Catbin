@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+:root{
+    /*===== Colores =====*/
+    --first-color: #222226;
+    --input-color: #80868B;
+    --border-color: #DADCE0;
+  
+    /*===== Fuente y tipografia =====*/
+    --body-font: 'Roboto', sans-serif;
+    --normal-font-size: 1rem;
+    --small-font-size: .75rem;
+  }
+
+body{
+   background-color: #222226; 
+}
+
+
+p{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Product Sans Regular';
+}
+
+h1{
+    color: rgb(255, 255, 255); 
+    font-family: 'Product Sans Regular';
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/assets/fonts/GoogleSans-Medium.eot');
+    src: local('Google Sans Medium'), local('GoogleSans-Medium'),
+    url('/assets/fonts/GoogleSans-Medium.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/GoogleSans-Medium.woff2') format('woff2'),
+    url('/assets/fonts/GoogleSans-Medium.woff') format('woff'),
+    url('/assets/fonts/GoogleSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Product Sans Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Product Sans Regular'), url('ProductSans-Regular.woff') format('woff');
+        }
+        
+        
+        @font-face {
+        font-family: 'Product Sans Italic';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Product Sans Italic'), url('ProductSans-Italic.woff') format('woff');
+        }
+        
+        
+        @font-face {
+        font-family: 'Product Sans Thin Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Product Sans Thin Regular'), url('ProductSans-Thin.woff') format('woff');
+        }
