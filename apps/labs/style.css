@@ -1,0 +1,81 @@
+:root {
+            --animate-duration: 800ms;
+            --animate-delay: 0.9s;
+            }  
+            
+            body { background-color: #000024; font-family: Google Sans; }
+            @font-face {
+                font-family: 'Google Sans';
+                src: url('/assets/fonts/GoogleSans-Medium.eot');
+                src: local('Google Sans Medium'), local('GoogleSans-Medium'),
+                    url('/assets/fonts/GoogleSans-Medium.eot?#iefix') format('embedded-opentype'),
+                    url('/assets/fonts/GoogleSans-Medium.woff2') format('woff2'),
+                    url('/assets/fonts/GoogleSans-Medium.woff') format('woff'),
+                    url('/assets/fonts/GoogleSans-Medium.ttf') format('truetype');
+                font-weight: 500;
+                font-style: normal;
+                            }
+            .background-accordion {
+                background-color: aliceblue;
+            }
+
+            .uk-accordion {
+                background-color: aliceblue;
+            }
+
+            .catbin-descp {
+                margin: 64px;
+
+                transform: translate(0px, 120%);
+                opacity: 0;
+                transition: all 1s ease 0s;
+            }
+            
+            .catbin-descp, .active {
+                transform: translate(0px, 0px);
+                opacity: 1;
+            }
+
+            a, li, h1, h2, h3, h4, h5, h6, p, span {
+                color: aliceblue;
+                font-family: 'Google Sans';
+            }
+
+            a {
+              text-decoration: none;
+            }
+            
+            a:hover {
+              color: #DADCE0;
+            }
+
+            .catbin-featch {
+              margin-right: 64px;
+              margin-left: 64px;
+            }
+
+            .section-1 {
+                height: 100vh;
+                background-image: url(/assets/img/labs/header.jpg);
+                background-attachment: fixed;
+                background-size: cover;
+                width: 1400px;
+                background-position: center;
+            }
+
+            .box {
+                width: 100%;
+            }
+
+            .section-2 {
+                background-color: #000024;
+                height: 750px;
+            }
+
+            .section-3 {
+                height: 100vh;
+                background-image: url(/assets/img/labs/labs-background.jpg);
+                background-attachment: fixed;
+                background-size: cover;
+                background-position: center;
+            }
