@@ -7,4 +7,4 @@
 - И всё, у вас собственный инстанс Catbin ;)
 
 ## Что с Catbin сейчас?
-- Он закрыт, но мои друзья сделали похожий сервис — <a href="https://catbox-gr.ru">Catbox</a>
+- Он закрыт, но мои друзья сделали похожий сервис — <a href="https://catbox-gr.ru">Catbox</a> (<a href="https://github.com/itsyuni/Catbox">исходный код</a>)
